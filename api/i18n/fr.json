@@ -1,0 +1,13 @@
+{
+  "USER_EXISTS": "L'utilisateur existe déjà",
+  "MISSING_FIELDS": "Veuillez remplir tous les champs",
+  "MISSING_USERNAME": "Veuillez entrer un nom d'utilisateur",
+  "MISSING_PASSWORD": "Veuillez entrer un mot de passe",
+  "MISSING_EMAIL": "Veuillez entrer une adresse email",
+  "USERNAME_LENGTH": "Le nom d'utilisateur doit être compris entre 3 et 20 caractères",
+  "PASSWORD_LENGTH": "Le mot de passe doit être compris entre 6 et 20 caractères",
+  "EMAIL_INVALID": "Adresse email invalide",
+  "EMAIL_LENGTH": "L'adresse email doit être comprise entre 6 et 50 caractères",
+  "EMAIL_EXISTS": "L'adresse email existe déjà",
+  "USER_CREATED": "Utilisateur créé avec succès"
+}
